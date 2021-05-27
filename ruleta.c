@@ -1,8 +1,3 @@
-//TRABAJO FINAL - FUNCIONES ALEATORIO
-//MALENA GUARDIA- DNI 32344001
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
